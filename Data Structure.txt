@@ -1,0 +1,27 @@
+A Spam Transformer Model for SMS Spam Detection
+
+SMS spam detection, transformer, attention, deep learning.
+
+IEEE Access and Transaction on Machine Learning,Volume:9,Issue Date:17.May.2021 
+
+
+
+ASpam_Transformer_Model
+
+aspam_transformer_model
+
+
+aspam_transformer_prediction
+
+SMS_Message
+Prediction
+
+
+
+
+Models
+-------
+
+aspam_transformer_prediction,detection_accuracy,detection_ratio
+
+
